@@ -47,9 +47,9 @@ def save_data_ref(outpath, data_ref, filename):
 # Check if the script is being run directly
 if __name__ == "__main__":
     # Input parameters
-    inpath = 'path/to/input/folder/'
-    filename = 'data.csv'
-    outpath = 'path/to/output/folder/'
+    inpath = 'EEG/'
+    filename = 'EEG_P001.csv'
+    outpath = 'EEG_ref/'
     
     # Call the main function with the provided parameters
     main(inpath, filename, outpath)
