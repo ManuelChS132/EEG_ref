@@ -1,4 +1,4 @@
-_# README: Re-referencing EEG Data
+# README: Re-referencing EEG Data
 
 ## Overview
 
