@@ -64,7 +64,6 @@ After running the function, a new file called `EEG_P001.csv` will be saved in th
 
 ## Requirements:
 - MATLAB R2018b or later.
-- The raw EEG data should be in `.csv` format with proper column names for electrodes.
 - This code is designed to be used with the EEG data from the publicly available dataset at (https://doi.org/10.17632/2pw2m39yct.1).
 
 ---
